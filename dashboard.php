@@ -9,6 +9,6 @@ if (!isset($_SESSION['user_id'])) {
 
 <h2>Welcome, <?php echo $_SESSION['name']; ?> 🎉</h2>
 
-<p>This is your dashboard.</p>
+<p>This is your dashboard. I hope you have liked it very much.</p>
 
 <a href="logout.php">Logout</a>
